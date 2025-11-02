@@ -39,21 +39,6 @@ GLAD - OpenGL function loading
 
 GLM - Mathematics library for graphics
 
-Building from Source
-bash
-# Clone the repository
-git clone https://github.com/yourusername/bezier-patch-renderer.git
-cd bezier-patch-renderer
-
-# Create build directory
-mkdir build && cd build
-
-# Configure and build
-cmake ..
-make
-
-# Run the application
-./bezier_patch
 Usage
 Basic Controls
 Camera Movement
